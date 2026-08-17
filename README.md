@@ -1,5 +1,3 @@
-# student-marks-manager
-A menu-driven Python application for managing student marks and records.
 # Student Marks Manager – Python
 
 A menu-driven Python application for managing student records and marks.
